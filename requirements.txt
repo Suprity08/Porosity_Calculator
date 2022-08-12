@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+Image
+sklearn
+xlrd == 1.2.0
